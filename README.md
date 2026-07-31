@@ -28,6 +28,9 @@ Produk yang sedang diskon menampilkan dua harga (asli & setelah diskon), yang me
 **4. Perilaku scraping yang lebih natural**
 Menggunakan jeda waktu acak (bukan tetap) antar request dan scroll, untuk menghindari pola yang terlalu teratur.
 
+**5. Konsistensi hasil scraping**
+Jumlah produk yang termuat bisa bervariasi karena lazy-loading yang bergantung pada kecepatan render. Diatasi dengan scroll adaptif yang terus berjalan hingga tidak ada konten baru yang dimuat, alih-alih menggunakan jumlah scroll tetap.
+
 ## Cara Pakai
 1. Install dependency:
    ```bash
