@@ -47,7 +47,8 @@ Menggunakan jeda waktu acak (bukan tetap) antar request dan scroll, untuk menghi
 | 1       | ROSE ALL DAY Forever Dew Lip Tint        | Rp99.000 |
 | 1       | ESQA Velvet Charm Powder Blush           | Rp125.000|
 
-*(tambahkan screenshot hasil CSV/spreadsheet asli di sini)*
+<img width="1514" height="904" alt="Tangkapan Layar 2026-07-31 pukul 11 10 24" src="https://github.com/user-attachments/assets/adc90e91-6e40-48db-a21f-84ff6612ce4b" />
+
 
 ## Catatan
 Script ini dibuat untuk keperluan pembelajaran dan riset harga (contoh: riset harga reseller), serta mengikuti batasan yang tercantum di robots.txt situs target — hanya mengakses halaman toko/produk publik, bukan melalui fitur pencarian internal yang dibatasi.
