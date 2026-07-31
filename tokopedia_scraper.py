@@ -48,7 +48,7 @@ driver.quit()
 
 print(f"Total data terkumpul: {len(data_produk)}")
 
-with open("beautyhaulindo_produk.csv", "w", newline="", encoding="utf-8-sig") as file:
+with open("hasil_produk.csv", "w", newline="", encoding="utf-8-sig") as file:
     writer = csv.DictWriter(file, fieldnames=["halaman", "nama", "harga"], delimiter=";")
     writer.writeheader()
     for row in data_produk:
